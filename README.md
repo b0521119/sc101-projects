@@ -6,4 +6,16 @@ Watch my *[Demo Videos](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 
 ## Project Source Codes:
 * [Hangman_Game](https://github.com/b0521119/sc101-projects/blob/main/stanCode_Projects/hangman_game/hangman.py)  
-  * python semantics & syntax
+  * python semantics & syntax  
+* [MyPhotoshop](https://github.com/b0521119/sc101-projects/blob/main/stanCode_Projects/my_best_photoshop/best_photoshop_award.py)  
+  * image processing
+* [MyDrawing](https://github.com/b0521119/sc101-projects/blob/main/stanCode_Projects/my_best_drawing/my_drawing.py)
+  * GWindow & GObject
+* [Breakout Game](https://github.com/b0521119/sc101-projects/blob/main/stanCode_Projects/breakout_game/breakout_advanced.py)
+  * animation & game designing
+* [Baby Name Popularity Searching System](https://github.com/b0521119/sc101-projects/blob/main/stanCode_Projects/babyname_searching_systems/babynames.py)
+  * data structure
+* [Word Anagram Searching](https://github.com/b0521119/sc101-projects/blob/main/stanCode_Projects/word_anagram/anagram.py)
+  * recursion functions
+* [Boggle Game Solver] (https://github.com/b0521119/sc101-projects/tree/main/stanCode_Projects/boggle_game_solver) Not done yet!
+  * recursion functions
