@@ -17,6 +17,6 @@ Watch my *[Demo Videos](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
   * data structure
 * [Word Anagram Searching](https://github.com/b0521119/sc101-projects/blob/main/stanCode_Projects/word_anagram/anagram.py)
   * recursion functions
-* [Boggle Game Solver] (https://github.com/b0521119/sc101-projects/tree/main/stanCode_Projects/boggle_game_solver) 
+* [Boggle Game Solver](https://github.com/b0521119/sc101-projects/tree/main/stanCode_Projects/boggle_game_solver)
   * Not done yet!!!
   * recursion functions
