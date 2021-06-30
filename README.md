@@ -12,7 +12,7 @@ Watch my *[Demo Videos](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 * [MyPhotoshop](https://github.com/b0521119/sc101-projects/blob/main/stanCode_Projects/my_best_photoshop/best_photoshop_award.py)  
   * image processing
 * [MyDrawing](https://github.com/b0521119/sc101-projects/blob/main/stanCode_Projects/my_best_drawing/my_drawing.py)
-  * GWindow & GObject
+  * gwindow & gobject
 * [Breakout Game](https://github.com/b0521119/sc101-projects/blob/main/stanCode_Projects/breakout_game/breakout_advanced.py)
   * animation & game designing
 * [Baby Name Popularity Searching System](https://github.com/b0521119/sc101-projects/blob/main/stanCode_Projects/babyname_searching_systems/babynames.py)
