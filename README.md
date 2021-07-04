@@ -11,7 +11,7 @@ Watch my *[Demo Videos](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
   * python semantics & syntax  
 * [My Photoshop](https://github.com/b0521119/sc101-projects/blob/main/stanCode_Projects/my_best_photoshop/best_photoshop_award.py)  
   * image processing
-* [Potoshop Advanced- Pedestrian removing](https://github.com/b0521119/sc101-projects/blob/main/stanCode_Projects/phtoshop_advanced/stanCodoshop.py)
+* [Potoshop- Pedestrian removing](https://github.com/b0521119/sc101-projects/blob/main/stanCode_Projects/phtoshop_advanced/stanCodoshop.py)
   * image processing
 * [My Drawing](https://github.com/b0521119/sc101-projects/blob/main/stanCode_Projects/my_best_drawing/my_drawing.py)
   * gwindow & gobject
