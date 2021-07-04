@@ -2,7 +2,7 @@
 Hello everyone! This is Yu-Chen, Chueh from Taiwan.:blush:  
 This repository holds my programming projects done during the period of stanCode SC101 course which ended at 6/26/2021.
 
-Watch my *[Demo Videos](https://drive.google.com/drive/folders/1b3dmLckfGWBVIcMmm8PpG0QiS-kL1MTi?usp=sharing)*  
+Watch my  *[Demo Videos](https://drive.google.com/drive/folders/1b3dmLckfGWBVIcMmm8PpG0QiS-kL1MTi?usp=sharing)*  
 
 ## Project Source Codes:
 * [Class Score Calculate](https://github.com/b0521119/sc101-projects/blob/main/stanCode_Projects/class_review/class_reviews.py)  
